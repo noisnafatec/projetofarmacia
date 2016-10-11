@@ -12,6 +12,7 @@ package br.com.fatec.farmacia;
 public class test {
     public static void main(String[] args){
         System.out.println("testando...");
+        System.out.println("testado!");
     }
 
 }
